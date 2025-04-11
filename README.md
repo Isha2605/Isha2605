@@ -43,6 +43,11 @@ I'm currently pursuing my Master's in Business Analytics – AI & Data Science T
 
 ---
 
+## 📊 Tableau Dashboards
+
+Check out my [Tableau Dashboards](https://public.tableau.com/app/profile/isha.narkhede1887/vizzes) for data storytelling and analytics!
+
+
 ## 📫 Let’s Connect!
 
 - 📍 Dallas, TX  
