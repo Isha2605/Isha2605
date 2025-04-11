@@ -47,6 +47,12 @@ I'm currently pursuing my Master's in Business Analytics – AI & Data Science T
 
 Check out my [Tableau Dashboards](https://public.tableau.com/app/profile/isha.narkhede1887/vizzes) for data storytelling and analytics!
 
+## 🧠 Machine Learning Projects
+
+- 🔮 [Health Insurance Cost Prediction using IBM Watson AutoAI](https://github.com/SmartPracticeschool/llSPS-INT-3564-Health-Insurance-Cost-prediction-Using-Watson-Auto-AI)  
+  Built predictive models with 92% accuracy using IBM Watson AutoAI platform during internship.
+
+
 
 ## 📫 Let’s Connect!
 
