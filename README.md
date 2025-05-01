@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I am Isha Narkhede</h1>
 <h3 align="center">Graduate Student | Data Analyst | ML Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Isha Coding" width="400" src="./5301a193-3828-44e6-a1bb-2d91de06fabd.png">
 
 - 🔭 **Currently Working On:**  
   Building predictive models and interactive dashboards as part of my Master’s in Business Analytics (AI & Data Science Track) at UT Dallas.
