@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Isha2605/Isha2605/blob/main/isha-grad-photo.jpg)]
+![MasterHead](https://github.com/Isha2605/Isha2605/blob/main/isha-grad-photo.jpg)
 <h1 align="center">Hello 👋, I am Isha Narkhede</h1>
 <h3 align="center">Graduate Student | Data Analyst | ML Enthusiast</h3>
 
