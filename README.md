@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/Isha2605/Isha2605/blob/main/isha-grad-photo.jpg)
 <h1 align="center">Hello 👋, I am Isha Narkhede</h1>
-<h3 align="center">Graduate Student | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">Data Analyst | ML Enthusiast | Recent Graduate</h3>
 
 - 🔭 **Currently Working On:**  
   Building predictive models and interactive dashboards as part of my Master’s in Business Analytics (AI & Data Science Track) at UT Dallas.
 
-- 🌱 I’m currently learning **advanced ML techniques, data storytelling, and scalable analytics pipelines**.
+- 🌱 I recently graduated and am now **actively seeking full-time opportunities in data analytics, machine learning, and business intelligence.**
 
-- 💬 Ask me about **EDA, predictive modeling, dashboarding, or anything data + ML**.
+- 💬 Ask me about **EDA, predictive modeling, dashboarding, or anything data + ML.**
 
 - 📫 How to reach me: **isha.narkhede@utdallas.edu**
 
@@ -64,4 +64,4 @@
 ---
 
 💬 *"Data is the new oil, but I make it refined & beautiful."*  
-🧡 *Always open to collaborations, internships, and meaningful data projects!*
+🧡 *Always open to collaborations, full-time opportunities, and meaningful data projects!*
