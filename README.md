@@ -11,25 +11,6 @@
 
 - 📫 How to reach me: **isha.narkhede@utdallas.edu**
 
----
-
-<h3 align="left">Work Experience</h3>
-
-- 💻 **Dassault Systèmes — PLM Data Analyst**  
-  📍 Pune, India | 🗓️ Sep 2021 – Jul 2023  
-  - Boosted 3DExcite sales by 27% via interactive dashboard  
-  - Developed webinar analytics tool (+35% engagement)  
-  - Deployed ML pipelines on 10K+ records  
-
-- 🧠 **Smartbridge — ML Intern (IBM Watson Studio)**  
-  📍 Hyderabad, India | 🗓️ Jun 2020 – Aug 2020  
-  - Health cost predictor (92% accuracy)  
-  - Built recommendation systems & automated preprocessing  
-
-- 📊 **TechSmart Systems — Data Analyst Intern**  
-  📍 Pune, India | 🗓️ Jun 2019 – Sep 2019  
-  - Created Tableau dashboards + SQL queries  
-  - Designed loan approval model (+25% accuracy)
 
 ---
 
