@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **EDA, predictive modeling, dashboarding, or anything data + ML.**
 
-- 📫 How to reach me: **isha.narkhede@utdallas.edu**
+- 📫 How to reach me: **isha.n@jobstechmail.com**
 
 
 ---
