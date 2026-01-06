@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | ML Enthusiast | Recent Graduate</h3>
 
 - 🔭 **Currently Working On:**  
-  Building predictive models and interactive dashboards as part of my Master’s in Business Analytics (AI & Data Science Track) at UT Dallas.
+  Building predictive models and interactive dashboards.
 
 - 🌱 I recently graduated and am now **actively seeking full-time opportunities in data analytics, machine learning, and business intelligence.**
 
