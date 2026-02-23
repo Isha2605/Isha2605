@@ -1,15 +1,22 @@
 ![MasterHead](https://github.com/Isha2605/Isha2605/blob/main/isha-grad-photo.jpg)
 <h1 align="center">Hello 👋, I am Isha Narkhede</h1>
-<h3 align="center">Data Analyst | ML Enthusiast | Recent Graduate</h3>
+<h3 align="center">Business Analyst | Payments & Product Systems | AI Explorer</h3>
 
-- 🔭 **Currently Working On:**  
-  Building predictive models and interactive dashboards.
+- 💼 **Currently:** Business Analyst supporting a large-scale payments platform modernization initiative at FIS.
 
-- 🌱 I recently graduated and am now **actively seeking full-time opportunities in data analytics, machine learning, and business intelligence.**
+- 📊 I specialize in translating complex business workflows into clear functional requirements, data mappings, and scalable system solutions.
 
-- 💬 Ask me about **EDA, predictive modeling, dashboarding, or anything data + ML.**
+- 🧩 Experience across payments, banking, and retail e-commerce with ownership of end-to-end requirements lifecycle.
 
-- 📫 How to reach me: **isha.n@jobstechmail.com**
+- 🤖 Outside of core BA work, I actively experiment with AI, workflow automation, and LLM-powered tools to build smarter business systems.
+
+- 🚀 Recently built:
+  - An LLM-powered data analysis & insights tool that converts structured datasets into business-ready summaries.
+  - An AI inbox agent using LLMs to classify, prioritize, and draft contextual email responses.
+
+- 💬 Ask me about requirements engineering, process modeling, data mapping, SQL validation, or AI-powered business workflows.
+
+- 📫 Reach me at: **ishan2605jobs@gmail.com**
 
 
 ---
