@@ -9,7 +9,7 @@
 
 - 📈 Experience in enterprise analytics, dashboard development, data validation, KPI tracking, reporting automation, and cross-functional stakeholder support.
 
-- 🧠 Skilled in working across the full analytics lifecycle — from data extraction, cleaning, and modeling to visualization, performance analysis, and business reporting.
+- 🧠 Skilled in working across the full analytics lifecycle, from data extraction, cleaning, and modeling to visualization, performance analysis, and business reporting.
 
 - 🚀 Featured projects:
   - **AI-Driven CRM Analytics System** to analyze customer engagement, lead lifecycle, and sales performance using SQL and machine learning.
