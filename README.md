@@ -1,23 +1,24 @@
 ![MasterHead](https://github.com/Isha2605/Isha2605/blob/main/isha-grad-photo.jpg)
+
 <h1 align="center">Hello 👋, I am Isha Narkhede</h1>
-<h3 align="center">Business Analyst | Payments & Product Systems | AI Explorer</h3>
+<h3 align="center">Data Analyst | BI & Reporting | SQL, Python, Power BI</h3>
 
-- 💼 **Currently:** Business Analyst supporting a large-scale payments platform modernization initiative at FIS.
+- 💼 **Currently:** Data Analyst Intern at Aeronace Consultancy Services, building ETL/ELT pipelines, KPI dashboards, and scalable reporting solutions.
 
-- 📊 I specialize in translating complex business workflows into clear functional requirements, data mappings, and scalable system solutions.
+- 📊 I specialize in transforming complex datasets into actionable business insights through SQL, Python, Power BI, Tableau, and cloud-based analytics workflows.
 
-- 🧩 Experience across payments, banking, and retail e-commerce with ownership of end-to-end requirements lifecycle.
+- 📈 Experience in enterprise analytics, dashboard development, data validation, KPI tracking, reporting automation, and cross-functional stakeholder support.
 
-- 🤖 Outside of core BA work, I actively experiment with AI, workflow automation, and LLM-powered tools to build smarter business systems.
+- 🧠 Skilled in working across the full analytics lifecycle — from data extraction, cleaning, and modeling to visualization, performance analysis, and business reporting.
 
-- 🚀 Recently built:
-  - An LLM-powered data analysis & insights tool that converts structured datasets into business-ready summaries.
-  - An AI inbox agent using LLMs to classify, prioritize, and draft contextual email responses.
+- 🚀 Featured projects:
+  - **AI-Driven CRM Analytics System** to analyze customer engagement, lead lifecycle, and sales performance using SQL and machine learning.
+  - **LLM-Powered Data Reporting & Insight Automation Tool** to automate data cleaning, profiling, and business-ready insight generation.
+  - **Sales Performance Analytics Dashboard** to track revenue, regional contribution, and representative performance through SQL and Excel-based BI reporting.
 
-- 💬 Ask me about requirements engineering, process modeling, data mapping, SQL validation, or AI-powered business workflows.
+- 💬 Ask me about **data analysis, BI dashboards, ETL/ELT pipelines, SQL reporting, KPI tracking, data validation, or analytics automation.**
 
-- 📫 Reach me at: **ishan2605jobs@gmail.com**
-
+- 📫 Reach me at: **ishajayant207@gmail.com**
 
 ---
 
@@ -51,5 +52,5 @@
 
 ---
 
-💬 *"Data is the new oil, but I make it refined & beautiful."*  
-🧡 *Always open to collaborations, full-time opportunities, and meaningful data projects!*
+💬 *"I turn raw data into clear, decision-ready insights."*  
+🧡 *Open to full-time opportunities in Data Analytics, BI, Reporting, and Business Intelligence.*
