@@ -1,0 +1,40 @@
+# ==============================================================================
+# Contribution Snake Generator
+# Location: .github/workflows/snake.yml  (in the Isha2605/Isha2605 profile repo)
+#
+# Generates the snake-eating-contributions SVG referenced at the bottom of the
+# profile README. Runs every 12 hours; can also be triggered manually from the
+# Actions tab.
+# ==============================================================================
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # allow manual runs from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Isha2605
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
