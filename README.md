@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://isha-n-portfolio.netlify.app/">
-    <img src="./YOUR_IMAGE_FILENAME.jpg" alt="Isha Narkhede — UT Dallas 2025 Graduation" width="280" />
+    <img src="./isha-grad-photo.jpg" alt="Isha Narkhede — UT Dallas 2025 Graduation" width="280" />
   </a>
 </p>
 
