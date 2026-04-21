@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://isha-n-portfolio.netlify.app/">
-    <img src="./isha-grad-photo.jpg" alt="Isha Narkhede — UT Dallas 2025 Graduation" width="280" />
+    <img src="./isha-grad-photo.jpg" alt="Isha Narkhede - UT Dallas 2025 Graduation" width="280" />
   </a>
 </p>
 
@@ -23,12 +23,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **M.S. in Business Analytics & AI** — University of Texas at Dallas (2025)
-- 💼 **Data Analyst Intern** at **Aeronace Consultancy Services** — building ETL/ELT pipelines, KPI dashboards, and scalable reporting
-- 📊 **3+ years** as a Data Analyst at **Dassault Systèmes** (Pune, India) — drove a **27% lift in internal product-line sales** and **40% reduction in reporting turnaround** through Tableau & Power BI dashboards
+- 🎓 **M.S. in Business Analytics & AI** - University of Texas at Dallas (2025)
+- 💼 **Data Analyst Intern** at **Aeronace Consultancy Services** - building ETL/ELT pipelines, KPI dashboards, and scalable reporting
+- 📊 **3+ years** as a Data Analyst at **Dassault Systèmes** (Pune, India) - drove a **27% lift in internal product-line sales** and **40% reduction in reporting turnaround** through Tableau & Power BI dashboards
 - 🧠 I turn complex datasets into actionable insights with **SQL, Python, Power BI, Tableau**, and cloud-based analytics workflows
 - 📜 **Microsoft Power BI Data Analyst (PL-300)** certified
-- 🌎 Based in **Irving, TX** — open to **full-time Data Analyst / BI / Analytics Engineer** roles
+- 🌎 Based in **Irving, TX** - open to **full-time Data Analyst / BI / Analytics Engineer** roles
 
 ---
 
@@ -88,11 +88,11 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 **[AI-Driven CRM Analytics System](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System)** — KNN + Neural Net lead classifier, **82% accuracy**, 10K+ customer records, Flask + MySQL
-- 🤖 **[LLM-Powered Data Analysis & Insights](https://github.com/Isha2605/LLM-Powered-Data-Analysis-and-Insights)** — Automated EDA, cleaning & AI-generated insights on 50K+ row CSVs, built with Streamlit
-- 📊 **[Real-Time Sales Dashboard (SQL + BI)](https://github.com/Isha2605/Real-Time-Sales-Dashboard-SQL-Connected-BI-Reporting)** — Excel dashboard connected to MySQL, 25K+ records, **40% less reporting prep time**
-- 🌾 **[Agro Disease Predictor](https://github.com/Isha2605/Agro-Disease-Predictor)** — Symptom-based crop-disease classifier in Python/HTML/CSS
-- 📬 **[AI Inbox Agent](https://github.com/Isha2605/ai-inbox-agent)** — LLM-based email triage assistant
+- 🧠 **[AI-Driven CRM Analytics System](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System)** - KNN + Neural Net lead classifier, **82% accuracy**, 10K+ customer records, Flask + MySQL
+- 🤖 **[LLM-Powered Data Analysis & Insights](https://github.com/Isha2605/LLM-Powered-Data-Analysis-and-Insights)** - Automated EDA, cleaning & AI-generated insights on 50K+ row CSVs, built with Streamlit
+- 📊 **[Real-Time Sales Dashboard (SQL + BI)](https://github.com/Isha2605/Real-Time-Sales-Dashboard-SQL-Connected-BI-Reporting)** - Excel dashboard connected to MySQL, 25K+ records, **40% less reporting prep time**
+- 🌾 **[Agro Disease Predictor](https://github.com/Isha2605/Agro-Disease-Predictor)** - Symptom-based crop-disease classifier in Python/HTML/CSS
+- 📬 **[AI Inbox Agent](https://github.com/Isha2605/ai-inbox-agent)** - LLM-based email triage assistant
 
 ---
 
@@ -111,7 +111,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Isha2605&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
-<!-- Contribution snake (requires GH Action — see setup below) -->
+<!-- Contribution snake (requires GH Action - see setup below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Isha2605/Isha2605/output/github-contribution-grid-snake-dark.svg" />
 </p>
