@@ -1,9 +1,16 @@
-<!-- Banner / Typing header -->
-<h1 align="center">
+<p align="center">
   <a href="https://isha-n-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Isha+Narkhede+%F0%9F%91%8B;Data+Analyst+%E2%80%A2+BI+%26+Reporting+%E2%80%A2+AI%2FML;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Snowflake;Turning+raw+data+into+decision-ready+insights" alt="Typing header" />
+    <img src="./YOUR_IMAGE_FILENAME.jpg" alt="Isha Narkhede — UT Dallas 2025 Graduation" width="280" />
   </a>
-</h1>
+</p>
+
+<h1 align="center">Hi, I'm Isha Narkhede 👋</h1>
+
+<p align="center">
+  <b>Data Analyst · BI & Reporting · AI/ML</b><br/>
+  <i>SQL · Python · Power BI · Tableau · Snowflake</i><br/>
+  <sub>Turning raw data into decision-ready insights</sub>
+</p>
 
 <p align="center">
   <a href="https://isha-n-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
