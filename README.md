@@ -116,8 +116,6 @@
   <img src="https://raw.githubusercontent.com/Isha2605/Isha2605/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
 ### 📫 Reach Out
 
 <p align="center">
